@@ -1,0 +1,28 @@
+name: "M'Ready"
+favicon: null
+layout_spectrum: 0.6598021788522601
+typography_spectrum: 0.5552894577849656
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8627777306828648
+  lightness: 0.6919167921878397
+  saturation: 0.5081605454906821
+  rhythmicContrast: 0.5848542377352715
+purpose: []
