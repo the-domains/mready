@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: 'Presentacion '
+  - name: Desafios en las organizaciones
     id: 55cfe259-2a85-4563-b663-85a43a3a9e19
     type: content
 favicon: null
