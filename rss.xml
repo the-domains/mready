@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Business Skills Development]]></title>
+        <description><![CDATA[Business Skills Development]]></description>
+        <link>https://thegrid.ai/mready/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 03 Aug 2016 13:10:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mready/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Consulting services around PEOPLE, PROCESS & TECHNOLOGY</p>]]></description>
+            <link>https://thegrid.ai/mready/consulting-services-around-people-process-and-technology/index.html</link>
+            <guid isPermaLink="false">55cfe259-2a85-4563-b663-85a43a3a9e19</guid>
+            <pubDate>Wed, 03 Aug 2016 13:10:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
