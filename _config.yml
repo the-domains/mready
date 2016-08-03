@@ -1,20 +1,4 @@
-name: "M'Ready"
-favicon: null
-layout_spectrum: 0.6598021788522601
 typography_spectrum: 0.5552894577849656
-title: Business Skills Development
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,24 @@ color:
   lightness: 0.6919167921878397
   saturation: 0.5081605454906821
   rhythmicContrast: 0.5848542377352715
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6598021788522601
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: M'Ready
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: 'Presentacion '
+    id: 55cfe259-2a85-4563-b663-85a43a3a9e19
+    type: content
+favicon: null
+title: Business Skills Development
 purpose: []
